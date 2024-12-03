@@ -1,9 +1,7 @@
 # Rock-Paper-scissors-game
 A simple Rock, Paper, Scissors game built with HTML, CSS, and JavaScript.
 
-# Rock, Paper, Scissors
-
-A simple Rock, Paper, Scissors game built with **HTML**, **CSS**, and **JavaScript**. This game allows players to choose between rock, paper, or scissors and see the outcome against the computer.
+This game allows players to choose between rock, paper, or scissors and see the outcome against the computer.
 
 ## Features
 - Interactive UI built with HTML and CSS.
